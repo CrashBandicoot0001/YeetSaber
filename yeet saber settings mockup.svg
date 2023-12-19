@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="yeet saber settings mockup.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#000000"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:zoom="0.64583333"
+     inkscape:cx="894.96774"
+     inkscape:cy="563.6129"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="181.16129"
+       y="193.54839"
+       width="1429.1613"
+       height="74.322581"
+       id="rect2" />
+    <rect
+       x="181.16129"
+       y="193.54839"
+       width="1416.7742"
+       height="574.45161"
+       id="rect2-2" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;fill-opacity:0.702479;stroke:#74b7b3;stroke-width:5.2;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1"
+       width="1625.8064"
+       height="785.03229"
+       x="74.322578"
+       y="133.16129"
+       ry="19.70775" />
+    <text
+       xml:space="preserve"
+       id="text1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.8398px;font-family:System-ui;-inkscape-font-specification:'System-ui, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect2);display:inline;fill:none;fill-opacity:0.702479;stroke:#74b7b3;stroke-width:5.2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       transform="translate(176.99655,-34.064516)"><tspan
+         x="181.16211"
+         y="222.22867"
+         id="tspan7"><tspan
+   style="fill:#74b7b3;stroke:none"
+   id="tspan1">Modifiers        </tspan><tspan
+   style="fill:#74b7b3;stroke:none"
+   id="tspan4">	</tspan><tspan
+   style="fill:#74b7b3;stroke:none"
+   id="tspan6">Environment         Avatars          Sabers           Settings       </tspan>    </tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.8398px;font-family:System-ui;-inkscape-font-specification:'System-ui, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;display:inline;fill:#74b7b3;fill-opacity:0.702479;stroke:none;stroke-width:5.2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;shape-inside:url(#rect2-2)"
+       transform="translate(87.269937,81.972591)"><tspan
+         x="181.16211"
+         y="222.22867"
+         id="tspan8">Global NJS Override     31           Current Song NJS Override      27           Static Lights        &#10;</tspan><tspan
+         x="181.16211"
+         y="262.02841"
+         id="tspan9">&#10;</tspan><tspan
+         x="181.16211"
+         y="301.82816"
+         id="tspan11"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00010490417"
+           id="tspan10">Global NJD Override    32           Current Song NJD Override      40           No Debris          &#10;</tspan></tspan><tspan
+         x="181.16211"
+         y="341.6279"
+         id="tspan12"> &#10;</tspan><tspan
+         x="181.16211"
+         y="381.42764"
+         id="tspan13">Left Handed            One Handed            Maul           Fist             Ashi  &#10;</tspan><tspan
+         x="181.16211"
+         y="421.22739"
+         id="tspan14">&#10;</tspan><tspan
+         x="181.16211"
+         y="461.02713"
+         id="tspan15">Slower Song (-25%)            Faster Song (+10%)                   Height  1.8M &#10;</tspan><tspan
+         x="181.16211"
+         y="500.82687"
+         id="tspan16">&#10;</tspan><tspan
+         x="181.16211"
+         y="540.62662"
+         id="tspan17">Custom Rate 1.0 X            Small Blocks (+10%)                    &#10;</tspan><tspan
+         x="181.16211"
+         y="580.42636"
+         id="tspan18">&#10;</tspan><tspan
+         x="181.16211"
+         y="620.22611"
+         id="tspan19">Ghost Notes (+10%)             Chaos (+10%)          Earthquake           No Fail (-50%)             &#10;</tspan><tspan
+         x="181.16211"
+         y="660.02585"
+         id="tspan20">&#10;</tspan><tspan
+         x="181.16211"
+         y="699.82559"
+         id="tspan21">Half Ghost                         Bail Me Out!                  Center Me</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.8398px;font-family:System-ui;-inkscape-font-specification:'System-ui, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#74b7b3;fill-opacity:0.702479;stroke:none;stroke-width:5.2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       x="1107.0968"
+       y="558.96771"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"></tspan></text>
+  </g>
+</svg>
