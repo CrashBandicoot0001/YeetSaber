@@ -1,5 +1,5 @@
 # Yeet Saber
-This is a fork of [Beep Saber by NeoSpark314](https://github.com/NeoSpark314/BeepSaber) ported to Godot 4.2 and OpenXR (WIP)
+This is a fork of [Open Saber VR](https://github.com/dhcdht/OpenSaberVR) which itself is a fork of [Beep Saber by NeoSpark314](https://github.com/NeoSpark314/BeepSaber) which ported it from Godot 3.x to Godot 4.2 and OpenXR (WIP)
 (The OQ Toolkit is only partially ported/patched for it to work on Godot 4 with OpenXR, most features that are not used in this project will not work)
 
 This fork intends to extend it from a demo to a full game. 
