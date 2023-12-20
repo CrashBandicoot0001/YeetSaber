@@ -20,17 +20,17 @@ Originally this prject was (and still is) a demo game as part of the Godot Oculu
 this stand alone version was forked so that it can be changed and developed independent of the original demo.
 
 
-# About the implementation
-This game uses godot 4.2-dev4. The implementation supports to load and play maps from [BeatSaver](https://beatsaver.com/).
+# About 
+This game uses godot 4.2-dev4. The implementation supports can load and play standard maps from [BeatSaver](https://beatsaver.com/).
 
-There is one demo song included that is part of the deployed package.
+There is one demo song bundled with releases.
 
-You can play custom songs by downloading them in the in-game menu. 
+You can play custom songs by downloading them from the in-game BeatSaver panel. 
 
 # Credits
 The included Music Track is Time Lapse by TheFatRat (https://www.youtube.com/watch?v=3fxq7kqyWO8)
 
 # Licensing
-The source code of the godot beep saber / open saber / Yeet Saber game in this repository is licensed under an MIT License.
+The source code of the Godot beep saber / open saber / Yeet Saber game in this repository is licensed under an MIT License.
 
 
